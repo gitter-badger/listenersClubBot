@@ -1,4 +1,6 @@
 # listenersClubBot
+
+[![Join the chat at https://gitter.im/olig1905/listenersClubBot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/olig1905/listenersClubBot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Python Script For A Redit Bot to Moderate and Automate a Listeners Club Subreddit.
 
 Requisites:
